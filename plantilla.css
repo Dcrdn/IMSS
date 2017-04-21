@@ -1,0 +1,31 @@
+.titulo{
+  background-color:#02786C;
+
+  padding: 0px;
+  margin:0px;
+  border-left:0px;
+  border-right:0px;
+  margin-top: 1px;
+}
+
+.bienvenida{
+  text-align: center;
+}
+
+.logo{
+  text-align: left;
+}
+
+.contenedorInicio{
+  text-align: right;
+}
+.registrarse{
+  float:left;
+}
+
+.iniciar{
+  float: right;
+}
+.textoBienvenida{
+  size:70px;
+}
